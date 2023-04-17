@@ -33,7 +33,7 @@ I enjoy studing, swimming, watching baseball.
 <p align="center">
 <!--   <a href="https://velog.io/@hyeinisfree"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp -->
   <a href="mailto:js06m13@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=js06m13@gmail.com"/></a>
-  <a href="[mailto:js06m13@gmail.co](https://github.com/sominJoo)m"><img src="https://img.shields.io/badge/company git-F05032?style=flat-square&logo=git&logoColor=white&link=https://github.com/sominJoo"/></a>
+  <a href="https://github.com/sominJoo"><img src="https://img.shields.io/badge/company git-F05032?style=flat-square&logo=git&logoColor=white&link=https://github.com/sominJoo"/></a>
 </p>
 
 <!-- 깃허브 통계 - 방문자수 -->
